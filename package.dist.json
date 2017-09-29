@@ -1,0 +1,29 @@
+{
+    "name": "@ngix/mutex",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "Patrick Martin <@pmartin_dev>",
+    "description": "Stand-alone Lens library for functionally modifying objects.",
+    "keywords": [
+      "ngix",
+      "mutex",
+      "ngrx",
+      "pure",
+      "immutable",
+      "functional"
+    ],
+    "main": "./bundle/mutex.umd.js",
+    "types": "./index.d.ts",
+    "module": "./bundle/mutex.es5.js",
+    "es2015": "./index.js",
+    "browser": "./index.js",
+    "private": false,
+    "publishConfig": {
+      "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+  }
+  
